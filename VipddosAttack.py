@@ -1,5 +1,5 @@
 print ("\033[91m")
-import sys
+import "sys"
 import os
 import time
 import socket
@@ -30,12 +30,12 @@ print "Telegram : t.me/VipHacker"
 print " Use it on your own Risk@Vip"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems@VipKrishna"
 print
-ip = raw_input("IP Target : ")
-port = input("Port       : ")
+ip = raw_input("IP address Target : ")
+port = input("IP Port       : ")
 os.system("clear")
 print("\033[93m")
 os.system("figlet VIP DdoS Attack")
-print("Team : T34m V18rs")
+print("Coded by : HackerGuptajii")
 print ("\033[92m")
 print "[                    ] 0% "
 time.sleep(5)
