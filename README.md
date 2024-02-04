@@ -10,7 +10,7 @@ pkg install git
 
  pkg install figlet
  
- git clone https://github.com/GuptajiiHacker/Vipddo
+ git clone https://github.com/GuptajiiHacker/VipddosAttack.py
 
 ls cd VipddosAttack.py.
 
