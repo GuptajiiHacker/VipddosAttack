@@ -1,19 +1,19 @@
-•install in termux
+install in termux
 
-•apt update && apt upgrade
+apt update && apt upgrade
 
-•pkg install pytho
+pkg install python2
 
- •pkg install python
+ pkg install python
  
-•pkg install git
+pkg install git
 
- •pkg install figlet
+ pkg install figlet
  
- •git clone https://github.com/GuptajiiHacker/Vipddo
+ git clone https://github.com/GuptajiiHacker/Vipddo
 
-•cd VipddosAttack.py.
+ls cd VipddosAttack.py.
 
-•chmod +x VipddosAttack.py
+chmod +x VipddosAttack.py
 
-•python2 VipddosAttack.py
+python2 VipddosAttack.py
