@@ -18,7 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet DDosAttackVip")
 print
 print "Author   : KrishnaGupta"
 print "You Tube : https://www.youtube.com/channel/HackerGuptajii"
